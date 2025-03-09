@@ -190,13 +190,13 @@ ec2InstanceName = "project-xyz-instance"
 ❌ **Bad:**
 
 ```sh
-n = "Abishek"  # Not descriptive
+n = "Bharath"  # Not descriptive
 ```
 
 ✅ **Good:**
 
 ```sh
-full_name = "Abishek Bala"
+full_name = "Bharath Kumar"
 ```
 
 **4. When to Use Short Variable Names?**

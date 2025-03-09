@@ -249,7 +249,7 @@ By mastering Python data types and their built-in functions, you can write **mor
 
 •	Try running the provided Python code examples.
 
-•	Explore more built-in functions from the Python official documentation (https://docs.python.org/3/library/stdtypes.html).
+•	Explore more built-in functions from the **Python official documentation** (https://docs.python.org/3/library/stdtypes.html).
 
 •	Implement a script that extracts error logs from **Kubernetes pods or AWS CloudWatch logs.**
 

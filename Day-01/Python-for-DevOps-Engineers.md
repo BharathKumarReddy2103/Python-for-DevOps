@@ -172,7 +172,7 @@ Python can be installed on different operating systems using these methods:
 
 **Windows Installation**
 
-1.	Visit Python’s official website(https://www.python.org/).
+1.	Visit **Python’s official website** (https://www.python.org/).
 
 2.	Download the latest **Python 3.x version.**
   

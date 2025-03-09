@@ -162,13 +162,13 @@ Following proper **variable naming conventions** ensures **readability, maintain
 ❌ **Bad:**
 
 ```sh
-NAME = "Abishek"  # Avoid uppercase for normal variables
+NAME = "Bharath"  # Avoid uppercase for normal variables
 ```
 
 ✅ **Good:**
 
 ```sh
-name = "Abishek"  # Use lowercase
+name = "Bharath"  # Use lowercase
 ```
 
 **2. Use Snake Case (_) or Camel Case**

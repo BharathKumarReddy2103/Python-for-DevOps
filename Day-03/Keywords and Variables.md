@@ -83,7 +83,7 @@ Python programs **cannot be written without keywords**. Just like English senten
 **Variables** are used to store data that can be referenced and manipulated within a program. In Python, a variable is created when a value is assigned to it:
 
 ```sh
-name = "Abishek"
+name = "Bharath"
 print(name)
 ```
 

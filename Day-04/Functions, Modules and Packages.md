@@ -145,7 +145,7 @@ def create_ec2_instance():
 
 **What is a Package?**
 
-A **package** is a collection of Python modules stored in a directory with an _init_.py file.
+A **package** is a collection of Python modules stored in a directory with an __init__.py file.
 
 **Creating a Package**
 

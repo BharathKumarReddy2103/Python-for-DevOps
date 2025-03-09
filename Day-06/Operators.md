@@ -15,7 +15,6 @@ An **operator** is a symbol or keyword that performs an operation on **one or mo
 For example:
 
 ```sh
-```python
 a = 5
 b = 3
 sum = a + b  # The "+" operator adds two values

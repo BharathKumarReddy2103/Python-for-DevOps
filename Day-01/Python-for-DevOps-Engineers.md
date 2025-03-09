@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Python has become an essential tool for **DevOps Engineers** due to its versatility and ease of use. While **Shell Scripting** has been the traditional choice for automation, Python provides additional capabilities that make complex automation tasks more manageable.
+**Python** has become an essential tool for **DevOps Engineers** due to its versatility and ease of use. While **Shell Scripting** has been the traditional choice for automation, Python provides additional capabilities that make complex automation tasks more manageable.
 
 In this guide, we will explore:
 

@@ -18,7 +18,7 @@ A **list** is a collection of elements stored in a single variable. Lists are **
 
 ```sh
 # Defining a list of student names
-students = ["Abishek", "Ram", "John", "Tim"]
+students = ["Bharath", "Ram", "John", "Tim"]
 
 # Printing the list
 print(students)

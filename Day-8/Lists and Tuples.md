@@ -120,7 +120,7 @@ Tuples are useful when you need **fixed and unchangeable data**, such as:
 aws_admins = ("admin1@example.com", "admin2@example.com")
 
 # Attempting to modify the tuple will result in an error
-aws_admins.append("admin3@example.com")  #   Will raise an error
+aws_admins.append("admin3@example.com")  # ❌ Will raise an error
 ```
 
 ---

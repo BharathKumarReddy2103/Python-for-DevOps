@@ -203,7 +203,7 @@ python3 script.py
 
 **3.**	The Flask application receives the webhook.
   
-4.	A Jira ticket is **automatically created.**
+**4.**	A Jira ticket is **automatically created.**
 
 ---
 

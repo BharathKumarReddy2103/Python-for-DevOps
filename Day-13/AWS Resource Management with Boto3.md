@@ -188,7 +188,7 @@ def lambda_handler(event, context):
 
 **4.**	Set it to run **every 24 hours.**
 
-5.	Attach the Lambda function.
+**5.**	Attach the Lambda function.
 
 ---
 

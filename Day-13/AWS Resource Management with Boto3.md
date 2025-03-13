@@ -172,9 +172,9 @@ def lambda_handler(event, context):
 
 4.	Assign IAM permissions for:
 
-o	ec2:DescribeSnapshots
+   o	ec2:DescribeSnapshots
 
-o	ec2:DeleteSnapshot
+   o	ec2:DeleteSnapshot
 
 5.	Save and deploy the function.
 

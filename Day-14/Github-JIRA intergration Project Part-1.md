@@ -88,9 +88,9 @@ Before automating the process, you need:
 
 **1.	Go to Jira Profile Settings** → Security.
 
-2.	Click on **Manage API Tokens.**
+**2.**	Click on **Manage API Tokens.**
 
-3.	Generate a new token and **save it securely.**
+**3.**	Generate a new token and **save it securely.**
 
 ---
 

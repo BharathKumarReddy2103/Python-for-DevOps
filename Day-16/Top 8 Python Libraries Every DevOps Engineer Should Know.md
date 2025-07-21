@@ -1,3 +1,5 @@
+![Top 8 Python Libraries](https://github.com/BharathKumarReddy2103/Python-for-DevOps/raw/main/Day-16/Top%208%20Python%20Libraries%20Every%20DevOps%20Engineer%20Should%20Know.png)
+
 ## Introduction
 
 As a DevOps or Cloud Engineer, you've probably heard it a hundred times: _"Learn Python."_  
